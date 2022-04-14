@@ -1,1 +1,2 @@
 "file2" 
+bu faylga o'zgartirish kiritildi
